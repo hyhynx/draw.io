@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:34:43.920Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="EykS6A8iMmIs95x8tJ6q" version="20.1.1" type="github"><diagram id="VmMP7uIes0QCA4hrSMzo" name="第 1 页">7ZZNb9swDIZ/jY8d/JGP9hi7XXdItmE5bNilYG3GFiqLhqzMSX/9KFuO42YBMmBDLgUM2HxFShQfErAXJeXuUUNVrChD6YV+tvOiey8Mg+gu4JdV9p0yn992Qq5F5pwGYS1e0Ym+U7ciw3rkaIikEdVYTEkpTM1IA62pGbttSI5PrSDHE2GdgjxVv4vMFJ16G84H/ROKvOhPDmZ33UoJvbO7SV1ARs2RFD14UaKJTPdV7hKUtnh9Xbq4j2dWD4lpVOaSgJ8YNzdf0uopp8dm8bl8+rGKbsJul18gt+7CiYS6VlCiy9rs+1LUjSglKLbiDSmzdis+22khZLaEPW1tKrWB9KW34oK0eGV/kLwUsMDL2jjS4czuJqRMSJJmQVF7wBC0tpu5YzTWHPa1v3LwRlrBbuS4hNr0CZKUUNXiuU3ZBpagc6FiMoZK5+Rqgdrg7myRgwM67nmkEo3es4sLmPiOtmv3Qx83Q/MEE6cVx43jT1zTuobND3sPTPnDYf0LxNEJYi+M7SgItLOwsBO1r05xcxFMS0vTC77B8wdiIEWu2JS4sWG2ioLHaOFkQ5XdrIJUqHzZ+txPBuWbq4SViGM3sh2VQmQZKguUDBh4PjRcRUKZtlLTmB8uaOJ/mHpTTjxhOxhsfqy7NgkpvguIFiRyazRo2+My6ueH57QVevSzy8j3fv8c/OQd/FXAT8Mrg5++g78K+P7X5j+AZ3P4U2jXjv63ooff</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T09:21:34.044Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="YXfI2vkE3gQ6CH3aMiXD" version="20.1.1" type="github">
+  <diagram id="VmMP7uIes0QCA4hrSMzo" name="第 1 页">
+    <mxGraphModel dx="1391" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vZANhmKthYRX99wkf_Cz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-1" target="vZANhmKthYRX99wkf_Cz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-1" value="&lt;div style=&quot;text-align: start; font-size: 14px;&quot; class=&quot;mind-clipboard&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;定时任务抓取&lt;br&gt;抓取food_coupon_switch.flag=3&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;全部金额计算完毕&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;然后抓取状态0发起签核&lt;br&gt;food_coupon_store.status=0&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=12;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-2" target="vZANhmKthYRX99wkf_Cz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;strokeColor=#DDA15E;fontColor=#FEFAE0;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-2" target="vZANhmKthYRX99wkf_Cz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-2" value="&lt;div style=&quot;font-size: 14px; text-align: start;&quot; class=&quot;mind-clipboard&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;流程发起完毕，签核开始&lt;br&gt;food_coupon_store.status=1&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-4" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;发起签核定时任务&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;WorkEngineHanlder&lt;/font&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;position2=0.25;size=30;position=0.38;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-6" target="vZANhmKthYRX99wkf_Cz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-6" value="&lt;div style=&quot;font-size: 14px;&quot; class=&quot;mind-clipboard&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;签核完成&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;food_coupon_store.status=2，food_coupon_store.send_status=1&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=12;align=center;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-8" value="&lt;div style=&quot;font-size: 14px;&quot; class=&quot;mind-clipboard&quot;&gt;&lt;p&gt;每个人签核完，他的记录变为2&lt;br&gt;food_coupon_process.status=2&lt;/p&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=12;align=center;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=13;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-10" target="vZANhmKthYRX99wkf_Cz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-10" value="&lt;div style=&quot;text-align: start; font-size: 14px;&quot; class=&quot;mind-clipboard&quot;&gt;签核完成后定时任务发起券合同创建&lt;div&gt;抓取send_status=1的数据&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=12;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="131.26" y="890" width="267.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-12" value="&lt;div style=&quot;text-align: start; font-size: 13px;&quot; class=&quot;mind-clipboard&quot;&gt;创建券合同定时任务&lt;div&gt;CreateFoodCouponHandler&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Verdana;fontSize=14;position2=0.18;size=40;position=0.27;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="810" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;fontSize=13;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-13" target="vZANhmKthYRX99wkf_Cz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=13;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-13" target="vZANhmKthYRX99wkf_Cz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-13" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; class=&quot;mind-clipboard&quot;&gt;券合同和券活动创建&lt;div style=&quot;font-size: 13px;&quot;&gt;food_coupon_store.send_status=2&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=13;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="142.51" y="1110" width="245" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Verdana;fontSize=13;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-15" target="vZANhmKthYRX99wkf_Cz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-15" value="&lt;div style=&quot;font-size: 12px;&quot; class=&quot;mind-clipboard&quot;&gt;合同和活动创建完毕发券抓food_coupon_store.send_status=2&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot; class=&quot;mind-clipboard&quot;&gt;的店且&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot; class=&quot;mind-clipboard&quot;&gt;&lt;span style=&quot;font-size: inherit;&quot;&gt;food_coupon_emp.status=1的员工&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=13;align=center;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="1320" width="255" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-16" value="&lt;div style=&quot;&quot; class=&quot;mind-clipboard&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;发券完毕&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;food_coupon_store.send_status=3&lt;/div&gt;&lt;div style=&quot;&quot;&gt;food_coupon_emp.status=2&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=13;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="146.88" y="1520" width="236.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-24" value="&lt;div style=&quot;font-size: 12px;&quot; class=&quot;mind-clipboard&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;发券定时任务&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;SendFoodCouponHandler&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Verdana;fontSize=13;size=40;position=0.34;position2=0;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="1250" width="151" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=13;strokeColor=#DDA15E;fontColor=#FEFAE0;strokeWidth=3;labelBackgroundColor=#283618;" edge="1" parent="1" source="vZANhmKthYRX99wkf_Cz-25" target="vZANhmKthYRX99wkf_Cz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-25" value="&lt;div style=&quot;font-size: 13px;&quot; class=&quot;mind-clipboard&quot;&gt;券合同创建更新&lt;br&gt;food_coupon_store.contract_no&lt;div&gt;food_coupon_store_detail.contract_no&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=12;align=center;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1117.5" width="280" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="vZANhmKthYRX99wkf_Cz-26" value="&lt;div style=&quot;font-size: 13px;&quot; class=&quot;mind-clipboard&quot;&gt;券活动创建更新&lt;div&gt;food_coupon_store_detail.activity_id&lt;/div&gt;&lt;div&gt;food_coupon_emp_detail.activity_id&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Verdana;fontSize=12;align=center;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1118.75" width="310" height="92.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
